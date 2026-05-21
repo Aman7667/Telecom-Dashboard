@@ -163,5 +163,5 @@ Advanced Power BI visualizations
 🖼️ Dashboard Summary
 
 This project demonstrates strong skills in:
-<img width="930" height="520" alt="Telecom Dashboard" src="https://github.com/user-attachments/assets/04bfee82-7e0a-4378-910b-120937ddb535" />
+[<img width="930" height="520" alt="Telecom Dashboard" src="https://github.com/user-attachments/assets/04bfee82-7e0a-4378-910b-120937ddb535" />](https://github.com/Aman7667/Telecom-Dashboard/blob/main/Telecom%20Dashboard.PNG)
 
