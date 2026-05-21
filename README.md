@@ -164,3 +164,4 @@ Advanced Power BI visualizations
 
 This project demonstrates strong skills in:
 https://github.com/Aman7667/Telecom-Dashboard/blob/main/Telecom%20Dashboard.PNG
+Telecom Dashboard.PNG
