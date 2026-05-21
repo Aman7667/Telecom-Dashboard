@@ -162,7 +162,6 @@ City-wise performance monitoring
 Advanced Power BI visualizations
 🖼️ Dashboard Summary
 
-The TELECOME DATA Dashboard combines customer analytics, telecom usage monitoring, billing insights, demographic analysis, and regional performance tracking into a single interactive business intelligence solution.
-
 This project demonstrates strong skills in:
+
 https://github.com/Aman7667/Telecom-Dashboard/blob/main/Telecom%20Dashboard.PNG
