@@ -167,5 +167,3 @@ The TELECOME DATA Dashboard combines customer analytics, telecom usage monitorin
 This project demonstrates strong skills in:
 
 https://github.com/Aman7667/Telecom-Dashboard/blob/main/Telecom%20Dashboard.PNG
-Data Modeling
-Analytical Storytelling
